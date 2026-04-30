@@ -1,7 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+    <!-- Base application theme (Dark). -->
     <style name="Base.Theme.FormLogRegiss" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/persona_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@drawable/bg_gradient_dark</item>
+        <item name="colorSurface">@color/elegant_grey</item>
+        <item name="colorOnSurface">@color/white</item>
+        <item name="colorSecondary">@color/vibrant_red</item>
     </style>
 </resources>

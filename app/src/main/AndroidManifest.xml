@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FormLogRegiss">
         <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RegistrationFormActivity"
+            android:exported="false" />
+        <activity
             android:name=".RegisterActivity"
             android:exported="false" />
         <activity

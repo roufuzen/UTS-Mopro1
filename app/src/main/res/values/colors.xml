@@ -2,7 +2,27 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Persona Colors -->
     <color name="persona_red">#D32F2F</color>
+    <color name="vibrant_red">#FF1744</color>
+    <color name="dark_red">#B71C1C</color>
+    <color name="light_red">#FFCDD2</color>
+
+    <!-- Backgrounds & Surfaces -->
     <color name="persona_black">#121212</color>
     <color name="persona_white">#F5F5F5</color>
+    <color name="elegant_grey">#1E1E1E</color>
+    <color name="soft_grey">#F0F0F0</color>
+
+    <!-- Glassmorphism Colors -->
+    <color name="glass_white">#26FFFFFF</color>
+    <color name="glass_stroke">#4DFFFFFF</color>
+
+    <!-- Gradient Colors -->
+    <color name="grad_start_dark">#121212</color>
+    <color name="grad_end_dark">#2C0000</color>
+
+    <color name="grad_start_light">#FFFFFF</color>
+    <color name="grad_end_light">#FFEBEE</color>
 </resources>
