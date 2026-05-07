@@ -37,13 +37,15 @@ Lihat demo aplikasi di sini: [Video Preview Seminar Hub 2026](https://drive.goog
 
 ## ⚙️ Cara Instalasi
 
-1. Clone repository ini:
+1. **Clone Repository**:
    ```bash
    git clone https://github.com/username/FormLogRegiss.git
    ```
-2. Buka project di **Android Studio**.
-3. Pastikan SDK Android terinstal (Level 34 recommended).
-4. Klik **Run** atau tekan `Shift + F10` untuk menjalankan di emulator/perangkat fisik.
+2. **Buka di Android Studio**:
+   - Pilih **File > Open**.
+   - Arahkan ke folder proyek `FormLogRegiss`.
+3. **Tunggu Sync**: Biarkan proses **Gradle Sync** selesai untuk mengunduh dependensi yang diperlukan.
+4. **Jalankan Aplikasi**: Klik tombol **Run** (segitiga hijau) atau tekan `Shift + F10`.
 
 ---
 Developed by **ROUFUZEN** 🚀
